@@ -1,0 +1,6 @@
+Buatlah database kuliah di php myadmin
+import file kuliah.sql didalam database kuliah
+buatlah folder di dalam htdocs xampp
+extract file kedalam folder tersebut
+buka browser
+cari " http://localhost/(nama_folder)
