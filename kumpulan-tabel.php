@@ -32,7 +32,7 @@
     <div class="container">
       <a class="navbar-brand" href="#" style="font-size : 1.1em;">
       <img src="img/logo.png" alt="logo" style="width: 2.3em; margin-right: 0.5em;">
-          <strong>CRUD DATABASE KULIAH - AMALIYAH</strong>
+          <strong>CRUD DATABASE KULIAH - Eldoni Mosul</strong>
         </a>
 
       <!-- TAB PILIHAN -->
